@@ -94,8 +94,3 @@ footer {
 footer p {
   margin-bottom: .25rem;
 }
-
-body {
-  margin: 0;
-  background-image: linear-gradient(to right, #ECE9E6 , #FFFFFF);
-}

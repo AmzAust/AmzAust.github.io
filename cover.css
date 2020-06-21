@@ -9,7 +9,7 @@ body {
 }
 
 body {
-  background: url(img/MEAN.png);
+  background: url(img/dark_background.png);
   background-repeat: no-repeat;
   background-size: cover;
   display: -ms-flexbox;
@@ -77,10 +77,10 @@ nav.fill ul li a:hover:after {
   opacity: 1;
 }
 
-#footer {
+/* #footer {
   position: fixed;
   left: 50%;
   bottom: 10px;
   transform: translate(-50%, -50%);
   margin: 0 auto;
-}
+} */

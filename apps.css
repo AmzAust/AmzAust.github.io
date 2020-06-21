@@ -179,8 +179,5 @@
   .card:hover .card-content {
     bottom: 0;
   }
-  body {
-    margin: 0;
-    background-image: linear-gradient(to right, #ECE9E6 , #FFFFFF);
-  }
+
   
