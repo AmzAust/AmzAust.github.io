@@ -181,3 +181,9 @@ footer p {
 .card:hover .card-content {
   bottom: 0;
 }
+
+.logo {
+  height: 10%;
+  width: 10%;
+  overflow: hidden;
+}
